@@ -13,3 +13,9 @@ p{
 .t-white{
     color: white;
 }
+
+/* col rules */
+
+[class^='row'] {
+    margin:20px;
+}
